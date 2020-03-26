@@ -2,7 +2,7 @@
 A simple python program to change the MAC Address of a device
 ### Help
 ```
-# python mac_changer.py --help
+python mac_changer.py --help
 ```
 ### Example:
 ```
