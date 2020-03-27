@@ -1,4 +1,4 @@
-# Mac_Changer
+# Mac Changer
 A simple python program to change the MAC Address of a device
 ### Help:
 ```
